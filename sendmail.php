@@ -1,3 +1,8 @@
+ 
+
+    <link rel="stylesheet" href="assets/css/lib/chosen/chosen.min.css">
+
+    
  <div class="breadcrumbs">
             <div class="col-sm-4">
                 <div class="page-header float-left">
